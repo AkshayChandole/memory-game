@@ -27,3 +27,11 @@ If the clicked cards are not the same, they will be flipped back, and the turn c
 </br>
 We need to win the game within 15 turns.</br>
 Once the game is complete, we can also reset it using the “New Game” button to reshuffle all the cards and set the turn counter back to 0. </br>
+
+## Technology Used
+<ul>
+  <li> ReactJS </li>
+  <li> Javascript </li>
+  <li> CSS </li>
+ </ul>
+  
